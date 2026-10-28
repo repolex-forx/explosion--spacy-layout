@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "spacy-layout",
+  "versions": [
+    {
+      "commit": "c458ab37ba7d63dda9d11109de970346543ad502",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:10:30.866261+00:00"
+    }
+  ]
+}
